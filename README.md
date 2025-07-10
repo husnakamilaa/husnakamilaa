@@ -50,7 +50,6 @@ I'm currently learning about the data field
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
-###
 
 ###
 
