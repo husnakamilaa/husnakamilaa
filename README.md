@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 <h2 align="left">About Me</h2>
 
-I'm currently learning about the data field
+<p>I have an interest in application development and data management. Some of the tools I have used can be seen in the <a href="#tech-stack">Tech Stack</a> section. During my studies, I actively worked on several projects, such as ................ . I continue to develop my knowledge and skills, especially in the field of data. In addition, I am open to collaborating and working in teams in developing various technology projects.</p>
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left" id="tech-stack">Tech Stack</h2>
 
 ###
 <!-- <div align="center">
@@ -59,6 +59,7 @@ I'm currently learning about the data field
 </p>
 
 ###
+<h2 align="left">Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=husnakamilaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
