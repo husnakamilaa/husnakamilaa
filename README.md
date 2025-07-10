@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">About Me</h2>
 
-<p>I have an interest in application development and data management. Some of the tools I have used can be seen in the <a href="#tech-stack">Tech Stack</a> section. During my studies, I actively worked on several projects, such as ................ . I continue to develop my knowledge and skills, especially in the field of data. In addition, I am open to collaborating and working in teams in developing various technology projects.</p>
+<p>I have an interest in application development and data fields such as machine learning. Some of the tools I have used can be seen in the <a href="#tech-stack">Tech Stack</a> section. During my studies, I actively worked on several projects, such as ................ . I continue to develop my knowledge and skills, especially in the field of data. In addition, I am open to collaborating and working in teams in developing various technology projects.</p>
 
 <h2 align="left" id="tech-stack">Tech Stack</h2>
 
@@ -57,9 +57,6 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,git,docker,java,php,figma,py&theme=dark&perline=7" />
   </a>
 </p>
-
-###
-<h2 align="left"></h2>
 
 ###
 <h2 align="left">Github Stats</h2>
