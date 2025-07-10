@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 </div>
 
 
-###
 
-<h2 align="left">About me</h2>
+<h2 align="left">About Me</h2>
 
 I'm currently learning about the data field
 
