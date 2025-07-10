@@ -54,7 +54,7 @@ I'm currently learning about the data field
 ### 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,git,docker,java,php,figma,py,sqlite,sklearn&theme=dark&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,git,docker,java,php,figma,py&theme=dark&perline=7" />
   </a>
 </p>
 
