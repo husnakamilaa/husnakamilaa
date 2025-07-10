@@ -52,11 +52,13 @@ Here are some ideas to get you started:
 </div> -->
 
 ### 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py&theme=dark&perline=6" />
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 0;">
+  <a href="https://skillicons.dev" style="display: contents;">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py&theme=dark&perline=6" style="vertical-align: middle; margin: 0; padding: 0;" />
   </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer" style="margin-left: -4px;">
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="vertical-align: middle; margin: 0; padding: 0;" />
+  </a>
 </p>
 
 ###
