@@ -14,10 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ###
-  <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+I'm+Husna+%F0%9F%91%8B" alt="Typing SVG" /></a>
-
-
-
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+I'm+Husna+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 <h2 align="left">About Me</h2>
 
@@ -54,7 +53,7 @@ Here are some ideas to get you started:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py&theme=dark&perline=6" />
-  </a><br>
+  </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
