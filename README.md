@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 ### 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,git,docker,java,php,figma,py&theme=dark&perline=7" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py&theme=dark&perline=6" />
   </a>
 </p>
 
