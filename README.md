@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">About Me</h2>
 
-<p>I have an interest in application development and data fields such as machine learning. Some of the tools I have used can be seen in the <a href="#tech-stack">Tech Stack</a> section. During my studies, I actively worked on several projects, such as <a href="https://github.com/husnakamilaa/Film">nontonApa</a>, <a href="https://github.com/husnakamilaa/20230140238_UAS_PDW">SIMPRAK</a> . I continue to develop my knowledge and skills, especially in the field of data. In addition, I am open to collaborating and working in teams in developing various technology projects.</p>
+<p>I have an interest in application development and data fields such as machine learning. Some of the tools I have used can be seen in the <a href="#tech-stack">Tech Stack</a> section. During my studies, I actively worked on several mini projects, such as <a href="https://github.com/husnakamilaa/minatKu">minatKu</a>, <a href="https://github.com/husnakamilaa/BimbelBee">BimbelBee</a>, <a href="https://github.com/husnakamilaa/Film">nontonApa</a>, <a href="https://github.com/husnakamilaa/20230140238_UAS_PDW">SIMPRAK</a>, and i'm still developing <a href="https://github.com/husnakamilaa/TandingIn">TandingIn</a>. I am still making progress in developing my knowledge and skills, especially in the field of data. In addition, I am open to collaborating and working in teams in developing various technology projects.</p>
 
 <h2 align="left" id="tech-stack">Tech Stack</h2>
 
