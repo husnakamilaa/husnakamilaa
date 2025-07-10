@@ -18,7 +18,11 @@ Here are some ideas to get you started:
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FFFFFF&width=435&lines=Hi+I'm+Husna+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
+
 ###
+
+<h2 align="left">About me</h2>
+
 I'm currently learning about the data field
 
 <h2 align="left">Tech Stack</h2>
