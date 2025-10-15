@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py&theme=dark&perline=6" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py,express,kotlin,nodejs,mysql,postman,react&theme=dark&perline=6" />
   </a>
 <!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> -->
    <!-- yang diatas itu sqlserver -->
