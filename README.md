@@ -50,14 +50,29 @@ Here are some ideas to get you started:
 </div> -->
 
 ### 
+<h3 align="left">Data Science Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,mysql,pandas,sklearn,tensorflow,pytorch,anaconda,jupyter&theme=dark" />
+</a>
 <h3 align="left">Web Dev Tools</h3>
-<p align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,postman&theme=dark" />
+</a>
+<h3 align="left">Mobile Dev Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter&theme=dark" />
+</a>
+<h3 align="left">Deployment Tools</h3>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
+</a>
+<!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py,express,kotlin,nodejs,mysql,postman,react&theme=dark&perline=6" />
   </a>
 <!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> -->
    <!-- yang diatas itu sqlserver -->
-</p>
+</p> -->
 
 ###
 <h2 align="left">Github Stats</h2>
