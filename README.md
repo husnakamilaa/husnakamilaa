@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### 
 <h3 align="left">Data Science Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,mysql,pandas,sklearn,tensorflow,pytorch,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,sklearn,tensorflow,pytorch,&theme=dark" />
 </a>
 <h3 align="left">Web Dev Tools</h3>
 <a href="https://skillicons.dev">
