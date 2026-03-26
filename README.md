@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 ### 
 <h3 align="left">Data Science Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=py,mysql,pandas,sklearn,tensorflow,pytorch,anaconda,jupyter&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,mysql,pandas,sklearn,tensorflow,pytorch,jupyter&theme=dark" />
 </a>
 <h3 align="left">Web Dev Tools</h3>
 <a href="https://skillicons.dev">
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   </a>
 <!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> -->
    <!-- yang diatas itu sqlserver -->
-</p> -->
+<!-- </p> --> -->
 
 ###
 <h2 align="left">Github Stats</h2>
