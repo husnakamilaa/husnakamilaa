@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 </a>
 <h3 align="left">Web Dev Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,nodejs,express,php,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,tailwind,nodejs,express,postman&theme=dark" />
 </a>
 <h3 align="left">Mobile Dev Tools</h3>
 <a href="https://skillicons.dev">
@@ -72,7 +72,7 @@ Here are some ideas to get you started:
   </a>
 <!--   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> -->
    <!-- yang diatas itu sqlserver -->
-<!-- </p> --> -->
+<!-- </p> --> 
 
 ###
 <h2 align="left">Github Stats</h2>
