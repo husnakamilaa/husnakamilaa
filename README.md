@@ -50,6 +50,7 @@ Here are some ideas to get you started:
 </div> -->
 
 ### 
+<h3 align="left">Web Dev Tools</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py,express,kotlin,nodejs,mysql,postman,react&theme=dark&perline=6" />
