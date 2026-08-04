@@ -47,6 +47,7 @@
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=kotlin,dart,flutter&theme=dark" />
 </a>
+
 <!-- <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,cs,cpp,docker,php,figma,py,express,kotlin,nodejs,mysql,postman,react&theme=dark&perline=6" />
@@ -55,14 +56,12 @@
    <!-- yang diatas itu sqlserver -->
 <!-- </p> -->
 
-###
-
-<h2 align="left">Github Stats</h2>
+<!-- <h2 align="left">Github Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=husnakamilaa&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=husnakamilaa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 ###
 
